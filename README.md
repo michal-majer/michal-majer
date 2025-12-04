@@ -1,5 +1,11 @@
 # Hi, I'm Michał 👋
 
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![CAP](https://img.shields.io/badge/CAP-0FAAFF?style=flat&logo=sap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat&logo=anthropic&logoColor=white)
+
 **SAP Developer Hero making enterprise systems intelligent with AI.**
 
 ## 🔭 Currently Building
