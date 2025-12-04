@@ -8,7 +8,7 @@
 - 📚 Open-sourcing 15 years of SAP expertise
 
 ## 🏆 Shipped Production For
-Airbus • ALDI SÜD • PwC • Gulf States Toyota
+• Airbus • Kyndryl • ALDI SÜD • PwC • Gulf States Toyota • and more..
 
 ## 📖 Resources
 - 📘 Book: [Learn to Deliver Apps in SAP BTP](https://btp.partners/free-book)
@@ -19,6 +19,6 @@ Airbus • ALDI SÜD • PwC • Gulf States Toyota
 `SAP BTP` `CAP` `Datasphere` `Node.js` `AI/LLM` `HANA Cloud`
 
 ---
-
-💡 Building in public. Follow for SAP + AI insights.
-```
+💡 Building in public. 
+Follow for SAP + AI insights.
+  
