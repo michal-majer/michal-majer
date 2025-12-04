@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Michał 👋
 
-<!--
-**michal-majer/michal-majer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SAP Developer Hero making enterprise systems intelligent with AI.**
 
-Here are some ideas to get you started:
+## 🔭 Currently Building
+- 🤖 AI Agents for SAP/BTP development
+- ⚡ CAP SaaS Template (production-ready foundation)
+- 📚 Open-sourcing 15 years of SAP expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Shipped Production For
+Airbus • ALDI SÜD • PwC • Gulf States Toyota
+
+## 📖 Resources
+- 📘 Book: [Learn to Deliver Apps in SAP BTP](https://btp.partners/free-book)
+- 💼 Consulting: [BTP Partners](https://btp.partners)
+- ✉️ Newsletter: Technical insights, 2x/month [BTP/AI Newsletter] (https://btp.partners/newsletter)
+
+## 🛠️ Tech Stack
+`SAP BTP` `CAP` `Datasphere` `Node.js` `AI/LLM` `HANA Cloud`
+
+---
+
+💡 Building in public. Follow for SAP + AI insights.
+```
