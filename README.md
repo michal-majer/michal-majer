@@ -13,7 +13,7 @@
 ## 📖 Resources
 - 📘 Book: [Learn to Deliver Apps in SAP BTP](https://btp.partners/free-book)
 - 💼 Consulting: [BTP Partners](https://btp.partners)
-- ✉️ Newsletter: Technical insights, 2x/month [BTP/AI Newsletter] (https://btp.partners/newsletter)
+- ✉️ Newsletter: [Technical insights, 2x/month] (https://btp.partners/newsletter)
 
 ## 🛠️ Tech Stack
 `SAP BTP` `CAP` `Datasphere` `Node.js` `AI/LLM` `HANA Cloud`
