@@ -10,7 +10,7 @@
 
 ## 🔭 Currently Building
 - 🤖 AI Agents for SAP/BTP development
-- ⚡ CAP SaaS Template (production-ready foundation)
+- ⚡ CAP SaaS Template
 - 📚 Open-sourcing 15 years of SAP expertise
 
 ## 🏆 Shipped Production For
